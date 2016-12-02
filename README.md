@@ -1,2 +1,2 @@
-# mod1
-folder for Mod1 work 
+# Module 1 - Project Work
+folder for module 1 projects  
